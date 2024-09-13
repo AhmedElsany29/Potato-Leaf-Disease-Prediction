@@ -1,4 +1,4 @@
-#🌿 Potato Leaf Disease Prediction – Harnessing AI to Improve Agriculture 🚀
+🌿***Potato Leaf Disease Prediction – Harnessing AI to Improve Agriculture***
 
 I’m thrilled to share my latest project on Potato Leaf Disease Prediction, where I utilized machine learning and deep learning techniques to detect and classify diseases in potato leaves. This project aims to help farmers identify crop diseases early, enabling them to take preventive actions and improve overall productivity.
 
@@ -20,14 +20,9 @@ I implemented a CNN model to classify the leaf images, achieving strong results.
 
 These models demonstrate the potential of AI in revolutionizing agricultural practices through fast and accurate disease detection, leading to better crop management.
 
-📊 Visualizations:
-- Confusion matrix to evaluate classification performance.
-- Graphs showing model accuracy and loss during training and validation.
-
 Check out the full project and code on Kaggle:  
 https://www.kaggle.com/code/ahmedelsany/potato-leaf-disease-prediction
 
 This project is part of my continuous exploration into how AI can bring innovative solutions to real-world agricultural challenges.
 
-#MachineLearning #DeepLearning #AIinAgriculture #PotatoLeafDisease #CNN #Keras #TensorFlow #OpenCV #Kaggle #Python #PrecisionAgriculture
 
