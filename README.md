@@ -12,6 +12,7 @@ The main objective of this project is to build a reliable model that can accurat
 - CNN (Convolutional Neural Networks): To classify leaf images as either healthy or diseased.
 
 🌱 Modeling:
+
 I implemented a CNN model to classify the leaf images, achieving strong results. The model was trained with various image preprocessing techniques, such as augmentation, to enhance accuracy and robustness.
 
 🔧 Performance:
